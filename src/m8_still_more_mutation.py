@@ -149,7 +149,7 @@ def MUTATE_delete_negatives(numbers):
             numbers.remove(numbers[i])
         else:
             i += 1
- 
+
 # ----------------------------------------------------------------------
 # If this module is running at the top level (as opposed to being
 # imported by another module), then call the 'main' function.
